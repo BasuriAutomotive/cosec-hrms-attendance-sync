@@ -1,0 +1,19 @@
+services:
+  cosec-hrms-sync:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cosec-hrms-sync
+    restart: always
+    environment:
+      - HRMS_BASE_URL=${HRMS_BASE_URL}
+      - HRMS_USERNAME=${HRMS_USERNAME}
+      - HRMS_PASSWORD=${HRMS_PASSWORD}
+      - COSEC_BASE_URL=${COSEC_BASE_URL}
+      - COSEC_USERNAME=${COSEC_USERNAME}
+      - COSEC_PASSWORD=${COSEC_PASSWORD}
+    volumes:
+      - cosec_logs:/app/logs
+
+volumes:
+  cosec_logs:
