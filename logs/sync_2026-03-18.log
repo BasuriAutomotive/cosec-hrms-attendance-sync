@@ -996,3 +996,287 @@
 2026-03-18 11:26:06,407 [INFO] ============================================================
 2026-03-18 11:26:06,407 [INFO] Custom Sync Complete — Total: 10 | Pushed: 2 | In-sync: 7 | Skipped: 1 | Errors: 0
 2026-03-18 11:26:06,408 [INFO] ============================================================
+2026-03-18 17:58:16,982 [INFO] ============================================================
+2026-03-18 17:58:16,982 [INFO] Backfill Sync Started — Dates: ['2026-03-17', '2026-03-16', '2026-03-15']
+2026-03-18 17:58:16,982 [INFO] ============================================================
+2026-03-18 17:58:16,982 [INFO] ============================================================
+2026-03-18 17:58:16,982 [INFO] Backfill Sync — Date: 2026-03-17
+2026-03-18 17:58:16,982 [INFO] ============================================================
+2026-03-18 17:58:16,982 [INFO] COSEC: Fetching records for date 2026-03-17...
+2026-03-18 17:58:17,400 [WARNING] Skipping employee 'Bhupendra Singh' (userid: 09) — empty integration_reference
+2026-03-18 17:58:17,400 [WARNING] Skipping employee 'PALIBEN BHALIYA' (userid: 11) — empty integration_reference
+2026-03-18 17:58:17,401 [WARNING] Skipping employee 'Payal Gosh' (userid: 12) — empty integration_reference
+2026-03-18 17:58:17,401 [WARNING] Skipping employee 'Diya Patel' (userid: 13) — empty integration_reference
+2026-03-18 17:58:17,401 [WARNING] Skipping employee 'Shianta Devi' (userid: 14) — empty integration_reference
+2026-03-18 17:58:17,401 [WARNING] Skipping employee 'Tina Vanjara' (userid: 15) — empty integration_reference
+2026-03-18 17:58:17,401 [WARNING] Skipping employee 'Uma Devi' (userid: 16) — empty integration_reference
+2026-03-18 17:58:17,401 [WARNING] Skipping employee 'Kanti Devi' (userid: 17) — empty integration_reference
+2026-03-18 17:58:17,401 [WARNING] Skipping employee 'Sadhana Ahire' (userid: 19) — empty integration_reference
+2026-03-18 17:58:17,401 [WARNING] Skipping employee 'Honey Bhalia' (userid: 20) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Balraj Pawra' (userid: 21) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Kalpana Birhdhare' (userid: 22) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Kanti Sisodiya' (userid: 23) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Kalu Dave' (userid: 24) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Reema Vasava' (userid: 26) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Riddhi Makwana' (userid: 27) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Brijesh Viradiya' (userid: 28) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Rajendra Prasad' (userid: 30) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Reena Chaudhari' (userid: 31) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Janvi Tailor' (userid: 32) — empty integration_reference
+2026-03-18 17:58:17,402 [WARNING] Skipping employee 'Suhani Rathod' (userid: 33) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'Malani lisa' (userid: 34) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'Surbhi Vasava' (userid: 35) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'KIRITBHAI LUMBANI' (userid: 36) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'Ahmed' (userid: 37) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'Reena Bhil' (userid: 40) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'Manishaben Ramesh Mistry' (userid: 43) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'Radhaben Makwana' (userid: 44) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'Anju Rathod' (userid: 46) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'NISHA RATHOD' (userid: 48) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'HARESH RATHOD' (userid: 50) — empty integration_reference
+2026-03-18 17:58:17,403 [WARNING] Skipping employee 'SATYARTH PANSURIYA' (userid: 53) — empty integration_reference
+2026-03-18 17:58:17,404 [WARNING] Skipping employee 'KASHISH AJAY PATEL' (userid: 56) — empty integration_reference
+2026-03-18 17:58:17,404 [WARNING] Skipping employee 'KRUSHNA BHAGWAN GHUDE' (userid: 57) — empty integration_reference
+2026-03-18 17:58:17,404 [WARNING] Skipping employee 'HINABEN VASAVA' (userid: 59) — empty integration_reference
+2026-03-18 17:58:17,404 [WARNING] Skipping employee 'SHILPABEN PATEL' (userid: 60) — empty integration_reference
+2026-03-18 17:58:17,404 [WARNING] Skipping employee 'PRAVINBHAI BHAYANI' (userid: 61) — empty integration_reference
+2026-03-18 17:58:17,404 [WARNING] Skipping employee 'RUNNI KUMARI' (userid: 63) — empty integration_reference
+2026-03-18 17:58:17,404 [WARNING] Skipping employee 'SAKU BEN' (userid: 64) — empty integration_reference
+2026-03-18 17:58:17,404 [WARNING] Skipping employee 'SOMABHAI MALI' (userid: 65) — empty integration_reference
+2026-03-18 17:58:17,405 [WARNING] Skipping employee 'ANKIT VASAVA' (userid: 66) — empty integration_reference
+2026-03-18 17:58:17,405 [INFO] COSEC: Fetched 51 records. Valid: 10, Skipped (no ref): 41
+2026-03-18 17:58:17,405 [INFO] Processing 10 employee record(s) for 2026-03-17...
+2026-03-18 17:58:17,884 [INFO] HRMS login successful.
+2026-03-18 17:58:17,983 [INFO] [PINTOO LINKA] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:17,984 [INFO] [PINTOO LINKA] No new punches. Already in sync.
+2026-03-18 17:58:18,115 [INFO] [sanket vavaliya] COSEC punches: 1 | HRMS punches: 1
+2026-03-18 17:58:18,116 [INFO] [sanket vavaliya] No new punches. Already in sync.
+2026-03-18 17:58:18,240 [INFO] [Harmit Bathani] COSEC punches: 2 | HRMS punches: 1
+2026-03-18 17:58:18,240 [INFO] [Harmit Bathani] 1 new punch(es) to push: ['18:05:00']
+2026-03-18 17:58:18,720 [INFO] [Harmit Bathani] Punch 2 (Clock-OUT) OK — 2026-03-17T18:05:00
+2026-03-18 17:58:18,823 [INFO] [Mayank Patel] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:18,823 [INFO] [Mayank Patel] No new punches. Already in sync.
+2026-03-18 17:58:18,942 [INFO] [KAJAL CHAUHAN] COSEC punches: 2 | HRMS punches: 0
+2026-03-18 17:58:18,943 [INFO] [KAJAL CHAUHAN] 2 new punch(es) to push: ['09:19:07', '18:23:23']
+2026-03-18 17:58:19,038 [WARNING] [KAJAL CHAUHAN] Punch 1 (Clock-IN) FAILED — 2026-03-17T09:19:07 | reason: Employee already clocked in. Please clock out first.
+2026-03-18 17:58:19,038 [WARNING] [KAJAL CHAUHAN] Stopping further punches due to failure at punch 1. Will retry on next run.
+2026-03-18 17:58:19,124 [INFO] [HARSH MAKWANA] COSEC punches: 2 | HRMS punches: 0
+2026-03-18 17:58:19,125 [INFO] [HARSH MAKWANA] 2 new punch(es) to push: ['08:45:31', '18:57:39']
+2026-03-18 17:58:19,238 [WARNING] [HARSH MAKWANA] Punch 1 (Clock-IN) FAILED — 2026-03-17T08:45:31 | reason: Employee already clocked in. Please clock out first.
+2026-03-18 17:58:19,239 [WARNING] [HARSH MAKWANA] Stopping further punches due to failure at punch 1. Will retry on next run.
+2026-03-18 17:58:19,342 [INFO] [MITESH TAILOR] COSEC punches: 2 | HRMS punches: 0
+2026-03-18 17:58:19,342 [INFO] [MITESH TAILOR] 2 new punch(es) to push: ['09:20:21', '19:59:42']
+2026-03-18 17:58:19,458 [WARNING] [MITESH TAILOR] Punch 1 (Clock-IN) FAILED — 2026-03-17T09:20:21 | reason: Employee already clocked in. Please clock out first.
+2026-03-18 17:58:19,459 [WARNING] [MITESH TAILOR] Stopping further punches due to failure at punch 1. Will retry on next run.
+2026-03-18 17:58:19,577 [INFO] [DHAVAL SANJANWALA] COSEC punches: 2 | HRMS punches: 0
+2026-03-18 17:58:19,577 [INFO] [DHAVAL SANJANWALA] 2 new punch(es) to push: ['08:45:40', '18:57:34']
+2026-03-18 17:58:19,679 [WARNING] [DHAVAL SANJANWALA] Punch 1 (Clock-IN) FAILED — 2026-03-17T08:45:40 | reason: Employee already clocked in. Please clock out first.
+2026-03-18 17:58:19,679 [WARNING] [DHAVAL SANJANWALA] Stopping further punches due to failure at punch 1. Will retry on next run.
+2026-03-18 17:58:19,799 [INFO] [DURGA KUMAVAT] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:19,800 [INFO] [DURGA KUMAVAT] No new punches. Already in sync.
+2026-03-18 17:58:19,907 [INFO] [JANKEE BARIA] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:19,907 [INFO] [JANKEE BARIA] No new punches. Already in sync.
+2026-03-18 17:58:19,908 [INFO] Date 2026-03-17 Complete — Total: 10 | Pushed: 5 | In-sync: 5 | Skipped: 0 | Errors: 0
+2026-03-18 17:58:19,908 [INFO] ============================================================
+2026-03-18 17:58:19,908 [INFO] Backfill Sync — Date: 2026-03-16
+2026-03-18 17:58:19,908 [INFO] ============================================================
+2026-03-18 17:58:19,908 [INFO] COSEC: Fetching records for date 2026-03-16...
+2026-03-18 17:58:20,294 [WARNING] Skipping employee 'Bhupendra Singh' (userid: 09) — empty integration_reference
+2026-03-18 17:58:20,295 [WARNING] Skipping employee 'PALIBEN BHALIYA' (userid: 11) — empty integration_reference
+2026-03-18 17:58:20,295 [WARNING] Skipping employee 'Payal Gosh' (userid: 12) — empty integration_reference
+2026-03-18 17:58:20,295 [WARNING] Skipping employee 'Diya Patel' (userid: 13) — empty integration_reference
+2026-03-18 17:58:20,296 [WARNING] Skipping employee 'Shianta Devi' (userid: 14) — empty integration_reference
+2026-03-18 17:58:20,296 [WARNING] Skipping employee 'Tina Vanjara' (userid: 15) — empty integration_reference
+2026-03-18 17:58:20,296 [WARNING] Skipping employee 'Uma Devi' (userid: 16) — empty integration_reference
+2026-03-18 17:58:20,296 [WARNING] Skipping employee 'Kanti Devi' (userid: 17) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Sadhana Ahire' (userid: 19) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Honey Bhalia' (userid: 20) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Balraj Pawra' (userid: 21) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Kalpana Birhdhare' (userid: 22) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Kanti Sisodiya' (userid: 23) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Kalu Dave' (userid: 24) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Reema Vasava' (userid: 26) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Riddhi Makwana' (userid: 27) — empty integration_reference
+2026-03-18 17:58:20,297 [WARNING] Skipping employee 'Brijesh Viradiya' (userid: 28) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Rajendra Prasad' (userid: 30) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Reena Chaudhari' (userid: 31) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Janvi Tailor' (userid: 32) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Suhani Rathod' (userid: 33) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Malani lisa' (userid: 34) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Surbhi Vasava' (userid: 35) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'KIRITBHAI LUMBANI' (userid: 36) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Ahmed' (userid: 37) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Reena Bhil' (userid: 40) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Manishaben Ramesh Mistry' (userid: 43) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Radhaben Makwana' (userid: 44) — empty integration_reference
+2026-03-18 17:58:20,298 [WARNING] Skipping employee 'Anju Rathod' (userid: 46) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'NISHA RATHOD' (userid: 48) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'HARESH RATHOD' (userid: 50) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'SATYARTH PANSURIYA' (userid: 53) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'KASHISH AJAY PATEL' (userid: 56) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'KRUSHNA BHAGWAN GHUDE' (userid: 57) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'HINABEN VASAVA' (userid: 59) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'SHILPABEN PATEL' (userid: 60) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'PRAVINBHAI BHAYANI' (userid: 61) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'RUNNI KUMARI' (userid: 63) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'SAKU BEN' (userid: 64) — empty integration_reference
+2026-03-18 17:58:20,299 [WARNING] Skipping employee 'SOMABHAI MALI' (userid: 65) — empty integration_reference
+2026-03-18 17:58:20,300 [WARNING] Skipping employee 'ANKIT VASAVA' (userid: 66) — empty integration_reference
+2026-03-18 17:58:20,300 [INFO] COSEC: Fetched 51 records. Valid: 10, Skipped (no ref): 41
+2026-03-18 17:58:20,300 [INFO] Processing 10 employee record(s) for 2026-03-16...
+2026-03-18 17:58:20,300 [INFO] [PINTOO LINKA] No punches in COSEC today. Skipping.
+2026-03-18 17:58:20,423 [INFO] [sanket vavaliya] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:20,424 [INFO] [sanket vavaliya] No new punches. Already in sync.
+2026-03-18 17:58:20,518 [INFO] [Harmit Bathani] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:20,518 [INFO] [Harmit Bathani] No new punches. Already in sync.
+2026-03-18 17:58:20,646 [INFO] [Mayank Patel] COSEC punches: 6 | HRMS punches: 6
+2026-03-18 17:58:20,647 [INFO] [Mayank Patel] No new punches. Already in sync.
+2026-03-18 17:58:20,761 [INFO] [KAJAL CHAUHAN] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:20,761 [INFO] [KAJAL CHAUHAN] No new punches. Already in sync.
+2026-03-18 17:58:20,869 [INFO] [HARSH MAKWANA] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:20,870 [INFO] [HARSH MAKWANA] No new punches. Already in sync.
+2026-03-18 17:58:20,967 [INFO] [MITESH TAILOR] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:20,967 [INFO] [MITESH TAILOR] No new punches. Already in sync.
+2026-03-18 17:58:21,092 [INFO] [DHAVAL SANJANWALA] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:21,093 [INFO] [DHAVAL SANJANWALA] No new punches. Already in sync.
+2026-03-18 17:58:21,211 [INFO] [DURGA KUMAVAT] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:21,212 [INFO] [DURGA KUMAVAT] No new punches. Already in sync.
+2026-03-18 17:58:21,342 [INFO] [JANKEE BARIA] COSEC punches: 2 | HRMS punches: 2
+2026-03-18 17:58:21,343 [INFO] [JANKEE BARIA] No new punches. Already in sync.
+2026-03-18 17:58:21,343 [INFO] Date 2026-03-16 Complete — Total: 10 | Pushed: 0 | In-sync: 9 | Skipped: 1 | Errors: 0
+2026-03-18 17:58:21,343 [INFO] ============================================================
+2026-03-18 17:58:21,343 [INFO] Backfill Sync — Date: 2026-03-15
+2026-03-18 17:58:21,343 [INFO] ============================================================
+2026-03-18 17:58:21,343 [INFO] COSEC: Fetching records for date 2026-03-15...
+2026-03-18 17:58:21,742 [WARNING] Skipping employee 'Bhupendra Singh' (userid: 09) — empty integration_reference
+2026-03-18 17:58:21,742 [WARNING] Skipping employee 'PALIBEN BHALIYA' (userid: 11) — empty integration_reference
+2026-03-18 17:58:21,743 [WARNING] Skipping employee 'Payal Gosh' (userid: 12) — empty integration_reference
+2026-03-18 17:58:21,743 [WARNING] Skipping employee 'Diya Patel' (userid: 13) — empty integration_reference
+2026-03-18 17:58:21,743 [WARNING] Skipping employee 'Shianta Devi' (userid: 14) — empty integration_reference
+2026-03-18 17:58:21,744 [WARNING] Skipping employee 'Tina Vanjara' (userid: 15) — empty integration_reference
+2026-03-18 17:58:21,744 [WARNING] Skipping employee 'Uma Devi' (userid: 16) — empty integration_reference
+2026-03-18 17:58:21,744 [WARNING] Skipping employee 'Kanti Devi' (userid: 17) — empty integration_reference
+2026-03-18 17:58:21,745 [WARNING] Skipping employee 'Sadhana Ahire' (userid: 19) — empty integration_reference
+2026-03-18 17:58:21,745 [WARNING] Skipping employee 'Honey Bhalia' (userid: 20) — empty integration_reference
+2026-03-18 17:58:21,745 [WARNING] Skipping employee 'Balraj Pawra' (userid: 21) — empty integration_reference
+2026-03-18 17:58:21,746 [WARNING] Skipping employee 'Kalpana Birhdhare' (userid: 22) — empty integration_reference
+2026-03-18 17:58:21,746 [WARNING] Skipping employee 'Kanti Sisodiya' (userid: 23) — empty integration_reference
+2026-03-18 17:58:21,746 [WARNING] Skipping employee 'Kalu Dave' (userid: 24) — empty integration_reference
+2026-03-18 17:58:21,746 [WARNING] Skipping employee 'Reema Vasava' (userid: 26) — empty integration_reference
+2026-03-18 17:58:21,746 [WARNING] Skipping employee 'Riddhi Makwana' (userid: 27) — empty integration_reference
+2026-03-18 17:58:21,747 [WARNING] Skipping employee 'Brijesh Viradiya' (userid: 28) — empty integration_reference
+2026-03-18 17:58:21,747 [WARNING] Skipping employee 'Rajendra Prasad' (userid: 30) — empty integration_reference
+2026-03-18 17:58:21,748 [WARNING] Skipping employee 'Reena Chaudhari' (userid: 31) — empty integration_reference
+2026-03-18 17:58:21,748 [WARNING] Skipping employee 'Janvi Tailor' (userid: 32) — empty integration_reference
+2026-03-18 17:58:21,748 [WARNING] Skipping employee 'Suhani Rathod' (userid: 33) — empty integration_reference
+2026-03-18 17:58:21,748 [WARNING] Skipping employee 'Malani lisa' (userid: 34) — empty integration_reference
+2026-03-18 17:58:21,748 [WARNING] Skipping employee 'Surbhi Vasava' (userid: 35) — empty integration_reference
+2026-03-18 17:58:21,748 [WARNING] Skipping employee 'KIRITBHAI LUMBANI' (userid: 36) — empty integration_reference
+2026-03-18 17:58:21,748 [WARNING] Skipping employee 'Ahmed' (userid: 37) — empty integration_reference
+2026-03-18 17:58:21,749 [WARNING] Skipping employee 'Reena Bhil' (userid: 40) — empty integration_reference
+2026-03-18 17:58:21,749 [WARNING] Skipping employee 'Manishaben Ramesh Mistry' (userid: 43) — empty integration_reference
+2026-03-18 17:58:21,749 [WARNING] Skipping employee 'Radhaben Makwana' (userid: 44) — empty integration_reference
+2026-03-18 17:58:21,749 [WARNING] Skipping employee 'Anju Rathod' (userid: 46) — empty integration_reference
+2026-03-18 17:58:21,749 [WARNING] Skipping employee 'NISHA RATHOD' (userid: 48) — empty integration_reference
+2026-03-18 17:58:21,749 [WARNING] Skipping employee 'HARESH RATHOD' (userid: 50) — empty integration_reference
+2026-03-18 17:58:21,749 [WARNING] Skipping employee 'SATYARTH PANSURIYA' (userid: 53) — empty integration_reference
+2026-03-18 17:58:21,750 [WARNING] Skipping employee 'KASHISH AJAY PATEL' (userid: 56) — empty integration_reference
+2026-03-18 17:58:21,750 [WARNING] Skipping employee 'KRUSHNA BHAGWAN GHUDE' (userid: 57) — empty integration_reference
+2026-03-18 17:58:21,750 [WARNING] Skipping employee 'HINABEN VASAVA' (userid: 59) — empty integration_reference
+2026-03-18 17:58:21,750 [WARNING] Skipping employee 'SHILPABEN PATEL' (userid: 60) — empty integration_reference
+2026-03-18 17:58:21,750 [WARNING] Skipping employee 'PRAVINBHAI BHAYANI' (userid: 61) — empty integration_reference
+2026-03-18 17:58:21,750 [WARNING] Skipping employee 'RUNNI KUMARI' (userid: 63) — empty integration_reference
+2026-03-18 17:58:21,751 [WARNING] Skipping employee 'SAKU BEN' (userid: 64) — empty integration_reference
+2026-03-18 17:58:21,751 [WARNING] Skipping employee 'SOMABHAI MALI' (userid: 65) — empty integration_reference
+2026-03-18 17:58:21,751 [WARNING] Skipping employee 'ANKIT VASAVA' (userid: 66) — empty integration_reference
+2026-03-18 17:58:21,751 [INFO] COSEC: Fetched 51 records. Valid: 10, Skipped (no ref): 41
+2026-03-18 17:58:21,751 [INFO] Processing 10 employee record(s) for 2026-03-15...
+2026-03-18 17:58:21,752 [INFO] [PINTOO LINKA] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,752 [INFO] [sanket vavaliya] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,752 [INFO] [Harmit Bathani] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,752 [INFO] [Mayank Patel] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,752 [INFO] [KAJAL CHAUHAN] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,752 [INFO] [HARSH MAKWANA] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,753 [INFO] [MITESH TAILOR] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,753 [INFO] [DHAVAL SANJANWALA] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,753 [INFO] [DURGA KUMAVAT] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,753 [INFO] [JANKEE BARIA] No punches in COSEC today. Skipping.
+2026-03-18 17:58:21,753 [INFO] Date 2026-03-15 Complete — Total: 10 | Pushed: 0 | In-sync: 0 | Skipped: 10 | Errors: 0
+2026-03-18 17:58:21,753 [INFO] ============================================================
+2026-03-18 17:58:21,753 [INFO] Backfill Sync Completed for all 3 days
+2026-03-18 17:58:21,753 [INFO] ============================================================
+2026-03-18 18:22:24,777 [INFO] ============================================================
+2026-03-18 18:22:24,777 [INFO] COSEC -> HRMS Attendance Sync Started (Today)
+2026-03-18 18:22:24,778 [INFO] ============================================================
+2026-03-18 18:22:24,778 [INFO] COSEC: Fetching today's records...
+2026-03-18 18:22:25,155 [WARNING] Skipping employee 'Bhupendra Singh' (userid: 09) — empty integration_reference
+2026-03-18 18:22:25,155 [WARNING] Skipping employee 'PALIBEN BHALIYA' (userid: 11) — empty integration_reference
+2026-03-18 18:22:25,155 [WARNING] Skipping employee 'Payal Gosh' (userid: 12) — empty integration_reference
+2026-03-18 18:22:25,155 [WARNING] Skipping employee 'Diya Patel' (userid: 13) — empty integration_reference
+2026-03-18 18:22:25,155 [WARNING] Skipping employee 'Shianta Devi' (userid: 14) — empty integration_reference
+2026-03-18 18:22:25,155 [WARNING] Skipping employee 'Tina Vanjara' (userid: 15) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Uma Devi' (userid: 16) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Kanti Devi' (userid: 17) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Sadhana Ahire' (userid: 19) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Honey Bhalia' (userid: 20) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Balraj Pawra' (userid: 21) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Kalpana Birhdhare' (userid: 22) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Kanti Sisodiya' (userid: 23) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Kalu Dave' (userid: 24) — empty integration_reference
+2026-03-18 18:22:25,156 [WARNING] Skipping employee 'Reema Vasava' (userid: 26) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Riddhi Makwana' (userid: 27) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Brijesh Viradiya' (userid: 28) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Rajendra Prasad' (userid: 30) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Reena Chaudhari' (userid: 31) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Janvi Tailor' (userid: 32) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Suhani Rathod' (userid: 33) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Malani lisa' (userid: 34) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Surbhi Vasava' (userid: 35) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'KIRITBHAI LUMBANI' (userid: 36) — empty integration_reference
+2026-03-18 18:22:25,157 [WARNING] Skipping employee 'Ahmed' (userid: 37) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'Reena Bhil' (userid: 40) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'Manishaben Ramesh Mistry' (userid: 43) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'Radhaben Makwana' (userid: 44) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'Anju Rathod' (userid: 46) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'NISHA RATHOD' (userid: 48) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'HARESH RATHOD' (userid: 50) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'SATYARTH PANSURIYA' (userid: 53) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'KASHISH AJAY PATEL' (userid: 56) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'KRUSHNA BHAGWAN GHUDE' (userid: 57) — empty integration_reference
+2026-03-18 18:22:25,158 [WARNING] Skipping employee 'HINABEN VASAVA' (userid: 59) — empty integration_reference
+2026-03-18 18:22:25,159 [WARNING] Skipping employee 'SHILPABEN PATEL' (userid: 60) — empty integration_reference
+2026-03-18 18:22:25,159 [WARNING] Skipping employee 'PRAVINBHAI BHAYANI' (userid: 61) — empty integration_reference
+2026-03-18 18:22:25,159 [WARNING] Skipping employee 'RUNNI KUMARI' (userid: 63) — empty integration_reference
+2026-03-18 18:22:25,159 [WARNING] Skipping employee 'SAKU BEN' (userid: 64) — empty integration_reference
+2026-03-18 18:22:25,159 [WARNING] Skipping employee 'SOMABHAI MALI' (userid: 65) — empty integration_reference
+2026-03-18 18:22:25,159 [WARNING] Skipping employee 'ANKIT VASAVA' (userid: 66) — empty integration_reference
+2026-03-18 18:22:25,159 [INFO] COSEC: Fetched 51 records. Valid: 10, Skipped (no ref): 41
+2026-03-18 18:22:25,160 [INFO] Processing 10 employee record(s)...
+2026-03-18 18:22:25,629 [INFO] HRMS login successful.
+2026-03-18 18:22:25,737 [INFO] [PINTOO LINKA] COSEC punches: 2 | HRMS punches: 1
+2026-03-18 18:22:25,737 [INFO] [PINTOO LINKA] 1 new punch(es) to push: ['18:12:05']
+2026-03-18 18:22:26,120 [INFO] [PINTOO LINKA] Punch 2 (Clock-OUT) OK — 2026-03-18T18:12:05
+2026-03-18 18:22:26,120 [INFO] [sanket vavaliya] No punches in COSEC today. Skipping.
+2026-03-18 18:22:26,226 [INFO] [Harmit Bathani] COSEC punches: 2 | HRMS punches: 0
+2026-03-18 18:22:26,226 [INFO] [Harmit Bathani] 2 new punch(es) to push: ['08:35:23', '17:59:34']
+2026-03-18 18:22:26,677 [INFO] [Harmit Bathani] Punch 1 (Clock-IN) OK — 2026-03-18T08:35:23
+2026-03-18 18:22:27,244 [INFO] [Harmit Bathani] Punch 2 (Clock-OUT) OK — 2026-03-18T17:59:34
+2026-03-18 18:22:27,360 [INFO] [Mayank Patel] COSEC punches: 3 | HRMS punches: 3
+2026-03-18 18:22:27,360 [INFO] [Mayank Patel] No new punches. Already in sync.
+2026-03-18 18:22:27,460 [INFO] [KAJAL CHAUHAN] COSEC punches: 1 | HRMS punches: 1
+2026-03-18 18:22:27,461 [INFO] [KAJAL CHAUHAN] No new punches. Already in sync.
+2026-03-18 18:22:27,586 [INFO] [HARSH MAKWANA] COSEC punches: 1 | HRMS punches: 1
+2026-03-18 18:22:27,586 [INFO] [HARSH MAKWANA] No new punches. Already in sync.
+2026-03-18 18:22:27,718 [INFO] [MITESH TAILOR] COSEC punches: 1 | HRMS punches: 1
+2026-03-18 18:22:27,718 [INFO] [MITESH TAILOR] No new punches. Already in sync.
+2026-03-18 18:22:27,836 [INFO] [DHAVAL SANJANWALA] COSEC punches: 1 | HRMS punches: 1
+2026-03-18 18:22:27,836 [INFO] [DHAVAL SANJANWALA] No new punches. Already in sync.
+2026-03-18 18:22:27,929 [INFO] [DURGA KUMAVAT] COSEC punches: 2 | HRMS punches: 1
+2026-03-18 18:22:27,930 [INFO] [DURGA KUMAVAT] 1 new punch(es) to push: ['17:54:12']
+2026-03-18 18:22:28,469 [INFO] [DURGA KUMAVAT] Punch 2 (Clock-OUT) OK — 2026-03-18T17:54:12
+2026-03-18 18:22:28,578 [INFO] [JANKEE BARIA] COSEC punches: 2 | HRMS punches: 1
+2026-03-18 18:22:28,578 [INFO] [JANKEE BARIA] 1 new punch(es) to push: ['17:56:02']
+2026-03-18 18:22:29,227 [INFO] [JANKEE BARIA] Punch 2 (Clock-OUT) OK — 2026-03-18T17:56:02
+2026-03-18 18:22:29,227 [INFO] ============================================================
+2026-03-18 18:22:29,227 [INFO] Sync Complete — Total: 10 | Pushed: 4 | In-sync: 5 | Skipped: 1 | Errors: 0
+2026-03-18 18:22:29,227 [INFO] ============================================================
