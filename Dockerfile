@@ -21,7 +21,7 @@ COPY . .
 RUN mkdir -p /app/logs
 
 # Write cron jobs using full python3 path
-RUN echo "*/10 * * * * . /app/.env_runtime && cd /app && /usr/local/bin/python3 main.py >> /app/logs/cron.log 2>&1" > /etc/cron.d/cosec_hrms_sync && \
+RUN echo "*/2 * * * * . /app/.env_runtime && cd /app && /usr/local/bin/python3 main.py >> /app/logs/cron.log 2>&1" > /etc/cron.d/cosec_hrms_sync && \
     echo "0 */2 * * * . /app/.env_runtime && cd /app && /usr/local/bin/python3 backfill_sync.py >> /app/logs/cron.log 2>&1" >> /etc/cron.d/cosec_hrms_sync && \
     echo "0 10 * * * . /app/.env_runtime && cd /app && /usr/local/bin/python3 backfill_sync.py >> /app/logs/cron.log 2>&1" >> /etc/cron.d/cosec_hrms_sync && \
     echo "" >> /etc/cron.d/cosec_hrms_sync && \
