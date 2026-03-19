@@ -6,6 +6,7 @@ services:
     container_name: cosec-hrms-sync
     restart: always
     environment:
+      - TZ=Asia/Kolkata
       - HRMS_BASE_URL=${HRMS_BASE_URL}
       - HRMS_USERNAME=${HRMS_USERNAME}
       - HRMS_PASSWORD=${HRMS_PASSWORD}
