@@ -1,7 +1,11 @@
 FROM python:3.11-slim
 
-# Install cron
-RUN apt-get update && apt-get install -y cron && rm -rf /var/lib/apt/lists/*
+# Install cron and timezone data
+RUN apt-get update && apt-get install -y cron tzdata && rm -rf /var/lib/apt/lists/*
+
+# Set timezone to IST
+ENV TZ=Asia/Kolkata
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 # Set working directory
 WORKDIR /app
