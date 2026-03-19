@@ -4,6 +4,7 @@ import sys
 from datetime import datetime, timedelta
 
 LOG_DIR = "logs"
+MAX_LINES = 300
 os.makedirs(LOG_DIR, exist_ok=True)
 
 
@@ -21,10 +22,25 @@ def cleanup_old_logs(days=5):
             os.remove(filepath)
 
 
-# Clean old logs on every startup
+def trim_log_file(filepath, max_lines=300):
+    """
+    Keep only the last max_lines lines in the log file.
+    Runs on every startup to prevent log file growing too large.
+    """
+    if not os.path.exists(filepath):
+        return
+    with open(filepath, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+    if len(lines) > max_lines:
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.writelines(lines[-max_lines:])
+
+
+# Clean old logs and trim current log on every startup
 cleanup_old_logs(days=5)
 
 log_filename = os.path.join(LOG_DIR, f"sync_{datetime.now().strftime('%Y-%m-%d')}.log")
+trim_log_file(log_filename, max_lines=MAX_LINES)
 
 # File handler — UTF-8
 file_handler = logging.FileHandler(log_filename, encoding="utf-8")
